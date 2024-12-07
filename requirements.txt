@@ -5,3 +5,4 @@ pandas
 schedule
 requests
 python-dotenv
+streamlit
